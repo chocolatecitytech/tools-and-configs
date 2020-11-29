@@ -10,7 +10,7 @@
  - git config --global alias.st status 
  - git config --global alias.f fetch -p 
 
-# Bash alias
+# Bash Aliases
 - django
     - alias p3='python3'
     - alias p38='python3.8'
