@@ -1,3 +1,10 @@
+//keep in mind you should put this in a script tag like so:
+
+
+//<script type="text/javascript">
+//code goes here
+//</script>
+
 //put your locations is here ['location1','location2']
 const adminLocations = ['', ''];
 
